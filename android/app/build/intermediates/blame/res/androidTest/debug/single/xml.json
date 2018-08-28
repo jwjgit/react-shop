@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/react-native-0.53.3.aar/9c6ec5b99b69266758505b724fbd2699/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/androidTest/debug/xml/provider_paths.xml",
+        "source": "/Users/gzy/company/dx-rnshop/node_modules/react-native-image-picker/android/build/intermediates/bundles/debug/res/xml/provider_paths.xml"
+    }
+]

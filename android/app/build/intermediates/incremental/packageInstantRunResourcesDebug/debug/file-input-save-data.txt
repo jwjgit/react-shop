@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Jun 06 21:37:16 CST 2018
+1.base=/Users/gzy/company/dx-rnshop/android/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=index.android.bundle
+0.set=ASSET
+0.base=/Users/gzy/company/dx-rnshop/android/app/build/intermediates/assets/debug
+1.path=index.android.bundle.meta

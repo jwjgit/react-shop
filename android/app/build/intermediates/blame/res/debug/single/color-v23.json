@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/09047bed6908fe27f1cb84930b323b8e/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/09047bed6908fe27f1cb84930b323b8e/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/09047bed6908fe27f1cb84930b323b8e/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/09047bed6908fe27f1cb84930b323b8e/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/09047bed6908fe27f1cb84930b323b8e/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/8d3693b0c239506f42bfbed79343fcf4/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/09047bed6908fe27f1cb84930b323b8e/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/09047bed6908fe27f1cb84930b323b8e/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/09047bed6908fe27f1cb84930b323b8e/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/09047bed6908fe27f1cb84930b323b8e/res/color-v23/abc_tint_spinner.xml"
+    }
+]

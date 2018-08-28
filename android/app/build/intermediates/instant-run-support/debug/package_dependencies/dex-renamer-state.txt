@@ -1,0 +1,4 @@
+#Wed Jun 06 21:37:41 CST 2018
+base.0=/Users/gzy/company/dx-rnshop/android/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/androidTest/debug/raw/zxing_beep.ogg",
+        "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/44563ace192ec60739a6c5ebe6429281/res/raw/zxing_beep.ogg"
+    },
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/androidTest/debug/raw/keep.xml",
+        "source": "/Users/gzy/company/dx-rnshop/node_modules/jpush-react-native/android/build/intermediates/bundles/debug/res/raw/keep.xml"
+    },
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/androidTest/debug/raw/beep.wav",
+        "source": "/Users/gzy/company/dx-rnshop/node_modules/react-native-smart-barcode/android/build/intermediates/bundles/debug/res/raw/beep.wav"
+    }
+]

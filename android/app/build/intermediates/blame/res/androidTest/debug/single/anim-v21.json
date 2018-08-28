@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/androidTest/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/8d3693b0c239506f42bfbed79343fcf4/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/androidTest/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/8d3693b0c239506f42bfbed79343fcf4/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

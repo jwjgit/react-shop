@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/09047bed6908fe27f1cb84930b323b8e/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/gzy/company/dx-rnshop/android/app/build/intermediates/res/merged/debug/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/gzy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/09047bed6908fe27f1cb84930b323b8e/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}
